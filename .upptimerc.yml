@@ -3,7 +3,7 @@ repo: upptime
 
 sites:
   - name: TFN
-    url: https://api.tnf.app.br
+    url: https://api.tfn.app.br
     expectedStatusCodes:
       - 200
       - 404
@@ -33,7 +33,7 @@ sites:
       - 200
       - 404
   - name: Rastrear LF
-    url: https://rastrear.lftecnologia.com.br/api
+    url: https://rastrear.lftecnologia.com.br
     expectedStatusCodes:
       - 200
       - 404

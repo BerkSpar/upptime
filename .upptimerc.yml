@@ -8,35 +8,35 @@ sites:
       - 200
       - 404
   - name: Remembeer [Production]
-      url: https://api.iremembeer.com
-      expectedStatusCodes:
-        - 200
-        - 404
+    url: https://api.iremembeer.com
+    expectedStatusCodes:
+      - 200
+      - 404
   - name: Remembeer [Development]
-        url: https://api.ibeer.app
-        expectedStatusCodes:
-          - 200
-          - 404
+    url: https://api.ibeer.app
+    expectedStatusCodes:
+      - 200
+      - 404
   - name: Like a Bee
-          url: https://homolog.likeabee.com.br
-          expectedStatusCodes:
-            - 200
-            - 404
+    url: https://homolog.likeabee.com.br
+    expectedStatusCodes:
+      - 200
+      - 404
   - name: Pet Delivery
-          url: https://api.pet.delivery
-          expectedStatusCodes:
-            - 200
-            - 404
+    url: https://api.pet.delivery
+    expectedStatusCodes:
+      - 200
+      - 404
   - name: O Gole
-          url: https://api.lf.app.br
-          expectedStatusCodes:
-            - 200
-            - 404
+    url: https://api.lf.app.br
+    expectedStatusCodes:
+      - 200
+      - 404
   - name: Rastrear LF
-          url: https://rastrear.lftecnologia.com.br/api
-          expectedStatusCodes:
-            - 200
-            - 404
+    url: https://rastrear.lftecnologia.com.br/api
+    expectedStatusCodes:
+      - 200
+      - 404
 
 status-website:
   cname: status.berkspar.com

@@ -6,7 +6,7 @@ sites:
     url: https://www.google.com
 
 status-website:
-  cname: berkspar.github.io
+  cname: status.berkspar.com
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Berkspar
   introTitle: "Berkspar Uptime Services"

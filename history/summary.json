@@ -22,9 +22,9 @@
     "url": "https://api.iremembeer.com",
     "icon": "https://favicons.githubusercontent.com/api.iremembeer.com",
     "slug": "remembeer-production",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 804,
     "timeMonth": 843,
     "timeYear": 843,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-10": 0
+    }
   },
   {
     "name": "Remembeer [Development]",
@@ -58,9 +60,9 @@
     "url": "https://homolog.likeabee.com.br",
     "icon": "https://favicons.githubusercontent.com/homolog.likeabee.com.br",
     "slug": "like-a-bee",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +71,9 @@
     "timeWeek": 990,
     "timeMonth": 981,
     "timeYear": 981,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-10": 0
+    }
   },
   {
     "name": "Pet Delivery",
@@ -88,7 +92,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-10": 81,
+      "2022-07-10": 988,
       "2022-07-09": 1440,
       "2022-07-08": 1440,
       "2022-07-07": 1440,
@@ -123,9 +127,9 @@
     "url": "https://api.lf.app.br",
     "icon": "https://favicons.githubusercontent.com/api.lf.app.br",
     "slug": "o-gole",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -134,7 +138,9 @@
     "timeWeek": 1107,
     "timeMonth": 1231,
     "timeYear": 1231,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-10": 0
+    }
   },
   {
     "name": "Rastrear LF",
@@ -142,11 +148,11 @@
     "icon": "https://favicons.githubusercontent.com/rastrear.lftecnologia.com.br",
     "slug": "rastrear-lf",
     "status": "up",
-    "uptime": "95.31%",
+    "uptime": "95.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "95.31%",
-    "uptimeYear": "95.31%",
+    "uptimeMonth": "95.42%",
+    "uptimeYear": "95.42%",
     "time": 1638,
     "timeDay": 2327,
     "timeWeek": 1696,

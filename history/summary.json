@@ -4,36 +4,39 @@
     "url": "https://api.tfn.app.br",
     "icon": "https://favicons.githubusercontent.com/api.tfn.app.br",
     "slug": "tfn",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1329,
     "timeDay": 1262,
     "timeWeek": 1213,
     "timeMonth": 1314,
     "timeYear": 1329,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-16": 3
+    }
   },
   {
     "name": "Remembeer [Production]",
     "url": "https://api.iremembeer.com",
     "icon": "https://favicons.githubusercontent.com/api.iremembeer.com",
     "slug": "remembeer-production",
-    "status": "up",
-    "uptime": "97.30%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "87.58%",
+    "status": "down",
+    "uptime": "97.31%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "87.56%",
     "uptimeMonth": "97.14%",
-    "uptimeYear": "97.30%",
+    "uptimeYear": "97.31%",
     "time": 835,
     "timeDay": 789,
     "timeWeek": 802,
     "timeMonth": 819,
     "timeYear": 835,
     "dailyMinutesDown": {
+      "2022-07-16": 2,
       "2022-07-11": 800,
       "2022-07-10": 452
     }
@@ -43,10 +46,10 @@
     "url": "https://api.ibeer.app",
     "icon": "https://favicons.githubusercontent.com/api.ibeer.app",
     "slug": "remembeer-development",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 846,
@@ -54,17 +57,19 @@
     "timeWeek": 907,
     "timeMonth": 846,
     "timeYear": 846,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-16": 2
+    }
   },
   {
     "name": "Like a Bee",
     "url": "https://homolog.likeabee.com.br",
     "icon": "https://favicons.githubusercontent.com/homolog.likeabee.com.br",
     "slug": "like-a-bee",
-    "status": "up",
+    "status": "down",
     "uptime": "97.31%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "87.58%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "87.57%",
     "uptimeMonth": "97.14%",
     "uptimeYear": "97.31%",
     "time": 1026,
@@ -73,6 +78,7 @@
     "timeMonth": 1019,
     "timeYear": 1026,
     "dailyMinutesDown": {
+      "2022-07-16": 1,
       "2022-07-11": 800,
       "2022-07-10": 452
     }
@@ -94,7 +100,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-16": 76,
+      "2022-07-16": 225,
       "2022-07-15": 1440,
       "2022-07-14": 1440,
       "2022-07-13": 1440,
@@ -135,9 +141,9 @@
     "url": "https://api.lf.app.br",
     "icon": "https://favicons.githubusercontent.com/api.lf.app.br",
     "slug": "o-gole",
-    "status": "up",
+    "status": "down",
     "uptime": "97.31%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "87.58%",
     "uptimeMonth": "97.14%",
     "uptimeYear": "97.31%",
@@ -147,6 +153,7 @@
     "timeMonth": 1229,
     "timeYear": 1240,
     "dailyMinutesDown": {
+      "2022-07-16": 0,
       "2022-07-11": 800,
       "2022-07-10": 452
     }
@@ -157,11 +164,11 @@
     "icon": "https://favicons.githubusercontent.com/rastrear.lftecnologia.com.br",
     "slug": "rastrear-lf",
     "status": "up",
-    "uptime": "96.19%",
+    "uptime": "96.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.95%",
-    "uptimeYear": "96.19%",
+    "uptimeYear": "96.20%",
     "time": 1677,
     "timeDay": 2002,
     "timeWeek": 1947,
